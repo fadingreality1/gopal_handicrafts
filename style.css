@@ -351,10 +351,6 @@ p{
 
 /** start of service section */
 
-#services{
-
-}
-
 #services .service{
     flex-direction: column;
     text-align: center;
